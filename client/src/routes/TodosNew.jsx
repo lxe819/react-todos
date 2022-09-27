@@ -19,6 +19,7 @@ function TodosNew() {
           <li key={todo.title}>{todo.title}</li>
         ))}
       </ul>
+      <p>Hello just testing.</p>
     </>
   );
 }
